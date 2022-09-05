@@ -1,0 +1,11 @@
+{ 
+  "name": "practice-12",
+  "private":"true",
+  "scripts": {
+      "serve-cli": "live-server --port=3000 --host=localhost",
+      "serve-node": "node server.js"
+  },
+  "devDependencies": {
+      "live-server": "^1.1.0"
+   }
+}
